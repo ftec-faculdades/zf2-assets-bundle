@@ -21,8 +21,7 @@
     },
     "require": {
         "php": ">=5.3.3",
-        "zendframework/zendframework": "2.*@stable",
-        "neilime/lessphp": "0.*@stable",
+        "zendframework/zendframework": "2.*@stable"
         "mrclay/minify": "2.*@stable"
     },
     "autoload": {
